@@ -3,7 +3,7 @@ Easy Minecraft Server Plugin (Bukkit) to Log the Player Join and Quit
 
 ---
 
-nothing special, just wanted to know on my private server who was going online and offline and when. Basically, the plugin saves the following values each time a player logs in or logs out. The Format is basic text, but its comma speratet, so you could open it with Excel or LibreOffice.
+nothing special, just wanted to know on my private server who was going online and offline and when. Basically, the plugin saves the following values each time a player logs in or logs out. The Format is basic text, but its comma separated, so you could open it with Excel, LibreOffice, etc if you safe it as *.csv.
 
 * Date & Time
 * Playername
