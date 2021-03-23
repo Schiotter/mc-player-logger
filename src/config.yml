@@ -1,0 +1,5 @@
+FileName: JoinQuit_Log.csv
+#The Following Values work, as boolean Values to Activate/Deactivate the modules
+#true/false, yes/no, y/n, on/off
+Log_Join: true
+Log_Quit: true
