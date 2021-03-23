@@ -1,0 +1,6 @@
+name: JoinQuitLogger
+version: 1.1.2-7E5-3
+author: SchlotterMC (Michael Schlosser)
+main: wtf.schlosser.JoinQuitLogger.Main
+api-version: 1.13
+description: Server Plugin, Logging Player Join and Quit Events
